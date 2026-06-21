@@ -1,4 +1,4 @@
-# StudyAI — Landing Page
+Landing Page
 
 A fully responsive dark-mode marketing landing page for StudyAI, an AI-powered study abroad advising platform. Built with pure HTML, CSS, and vanilla JavaScript — no frameworks, no build step.
 
